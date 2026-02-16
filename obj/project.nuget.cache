@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LVhPEWaumAQ=",
+  "dgSpecHash": "EtSkujlqXc0=",
   "success": true,
-  "projectFilePath": "C:\\Repos\\AiAgentic\\MyFirstAiProject\\MyFirstAiProject.csproj",
+  "projectFilePath": "C:\\Repos\\MyFirstAiProject\\MyFirstAiProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parag\\.nuget\\packages\\azure.ai.openai\\2.7.0-beta.2\\azure.ai.openai.2.7.0-beta.2.nupkg.sha512",
     "C:\\Users\\parag\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
