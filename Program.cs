@@ -1,4 +1,3 @@
-﻿using Microsoft.SemanticKernel.ChatCompletion;
-using MyFirstAiProject;
+﻿using MyFirstAiProject;
 
 await MyOllama.StartOllama();
